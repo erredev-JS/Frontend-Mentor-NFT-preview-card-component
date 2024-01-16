@@ -8,7 +8,9 @@ Gracias por ver mi solucion del desafio de frontend mentor:
 [Frontend Mentor](https://www.frontendmentor.io) .
 
 
+## Solución en GitHub Pages
 
+https://erredev-js.github.io/Frontend-Mentor-NFT-preview-card-component/
 
 ## Building your project
 
