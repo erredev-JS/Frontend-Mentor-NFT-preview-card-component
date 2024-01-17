@@ -37,7 +37,7 @@ body {
     background-color: var(--Very-dark-blue-card-BG);
     max-height: 500px;
     min-height: 450px;
-    min-width: 320px;
+    min-width: 300px;
     max-width: 320px;
 }
 
@@ -62,7 +62,7 @@ p {
 }
 
 b {
-    color: var(--White);
+    font-weight: bold;
 }
 
 .card-description {
@@ -76,6 +76,7 @@ b {
     padding: 0px 18px;
     padding-top: 15px;
     align-items: center;
+
 }
 
 .card-img {
@@ -97,7 +98,9 @@ b {
     border: 1px solid yellow;
     border-radius: 50%;
 }
-
+.autor-about{
+    color: var(--White);
+}
 .autor-img img {
     width: 100%;
 }
