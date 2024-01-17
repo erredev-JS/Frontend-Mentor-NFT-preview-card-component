@@ -61,9 +61,7 @@ p {
     display: flex;
 }
 
-b {
-    font-weight: bold;
-}
+
 
 .card-description {
     margin: 10px 0px;
@@ -98,9 +96,10 @@ b {
     border: 1px solid yellow;
     border-radius: 50%;
 }
-.autor-about{
-    color: var(--White);
+p{
+    color: var(--Soft-blue);
 }
+
 .autor-img img {
     width: 100%;
 }
@@ -163,10 +162,15 @@ b {
     padding-right: 10px;
 }
 .date-div{
+    color: var(--Soft-blue);
     display: flex;
     align-items: center;
     width: 37%;
     height: 30px;
     justify-content: space-between;
     
+}
+b {
+    font-weight: bold;
+    color: white;
 }
